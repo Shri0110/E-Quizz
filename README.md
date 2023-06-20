@@ -31,7 +31,7 @@ Follow the instructions below to get a copy of the project up and running on you
 1. Clone the repository using the following command:
 
    
-   git clone https://github.com/your-username/general-knowledge-quiz-app.git
+   git clone [https://github.com/your-username/general-knowledge-quiz-app.git](https://github.com/Shri0110/E-Quizz.git)
    
 
 2. Open Android Studio.
