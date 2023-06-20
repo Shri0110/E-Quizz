@@ -72,6 +72,6 @@ If you would like to contribute to this project, please follow these steps:
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please feel free to contact me at [shrikantagrawal2002@gmail.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or issues, please feel free to contact me at [shrikant.agrawal2002@gmail.com](mailto:your-email@example.com).
 
 Enjoy the quiz!
