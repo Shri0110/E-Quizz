@@ -15,7 +15,9 @@ This is an Android application that provides a simple quiz consisting of 10 gene
 ## Screenshots
 
 ![Screenshot 1](SRC..jpeg)
+
 !![Screenshot 2](SRC...jpeg)
+
 ![Screenshot 3](SRC....jpeg)
 
 ## Getting Started
