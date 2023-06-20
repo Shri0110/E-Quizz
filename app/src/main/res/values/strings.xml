@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eQuizz</string>
+    <string name="eQuizz">eQuizz</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="title_activity_quiz_questions">QuizQuestionsActivity</string>
+
+</resources>
